@@ -1,1 +1,78 @@
 
+/* Estilos generales del cuerpo */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6f9;
+  color: #333333;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* Encabezado principal */
+header {
+  text-align: center;
+  background-color: #1a365d;
+  color: #ffffff;
+  padding: 30px 20px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+}
+
+header h1 {
+  margin: 0 0 10px 0;
+  font-size: 2rem;
+}
+
+/* Contenedor de cada actividad */
+.card {
+  background-color: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 25px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Subtítulos */
+h2 {
+  color: #2b6cb0;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 8px;
+  margin-top: 0;
+}
+
+h3 {
+  color: #4a5568;
+  margin-top: 15px;
+}
+
+/* Imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 15px 0;
+}
+
+/* Listas */
+ul, ol {
+  padding-left: 25px;
+  color: #4a5568;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* Enlaces */
+a {
+  color: #3182ce;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #2b6cb0;
+}
