@@ -1,1 +1,20 @@
 
+<Sección Deportiva>
+<section class="card">
+  <h2>Natación (Actividad Deportiva)</h2>
+  <p>La natación consiste en desplazarse por el agua usando diferentes estilos, como libre, pecho, espalda y mariposa. Es una actividad que
+     ejercita varios grupos musculares y ayuda a desarrollar la coordinación y la resistencia.</p><
+  <img src="https://images.unsplash.com/photo-1530549387789-4c1017266635?w=600"
+       alt="Persona nadando en una piscina">
+       <img src="d:\304_Domingo_Ruiz_Brisa_Fernanda\IMAGENES NATACIÓN\OIP.jfif">
+
+  <h3>Beneficios de la natación:</h3>
+  <ul>
+    <li>Fortalece los músculos y mejora la resistencia física.</li>
+    <li>Favorece la coordinación y la movilidad.</li>
+    <li>Puede practicarse como actividad recreativa o deporte competitivo.</li>
+  </ul>
+
+  <p>Conoce más sobre la <a href="https://es.wikipedia.org/wiki/Nataci%C3%B3n"
+       target="_blank" rel="noopener noreferrer">natación en Wikipedia</a>.</p>
+  </section>
